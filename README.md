@@ -25,8 +25,6 @@ This project focuses on detecting deepfake images using deep learning models suc
 - Accuracy: ~XX% (replace with your value)
 - Confusion Matrix:
 
-![Confusion Matrix](confusion_matrix.png)
-
 ## ▶️ How to Run
 
 ### 1. Clone repo
